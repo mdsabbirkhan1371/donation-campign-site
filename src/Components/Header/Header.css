@@ -1,0 +1,10 @@
+#sidebar a.active {
+    color: red;
+    border-bottom: 2px solid cyan;
+    
+}
+#sidebar a{
+    margin: 20px;
+    font-size: x-large;
+    font-weight: 10px;
+}
