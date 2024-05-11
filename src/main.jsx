@@ -8,6 +8,7 @@ import ErrorPage from './Components/ErrorPage/ErrorPage.jsx'
 import Statistics from './Components/Statistics/Statistics.jsx'
 import Donation from './Components/Donation/Donation.jsx'
 import Home from './Components/Home/Home.jsx'
+import AllDonations from './Components/AllDonations/AllDonations.jsx'
 
 const router = createBrowserRouter([
   {

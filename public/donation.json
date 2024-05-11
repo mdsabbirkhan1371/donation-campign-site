@@ -1,134 +1,134 @@
 [
-    {
+      {
         "id": 1,
         "title": "Healing Hearts",
         "category": "Health",
-        "category_bg_color": "#ff7f50",
-        "card_bg_color": "#ffffff",
-        "text_button_bg_color": "#333333",
+        "category_bg_color": "ff7f50",
+        "card_bg_color": "#ffb347",
+        "text_button_bg_color": "#ffab17",
         "description": "Support cardiac patients in need of surgeries and treatments.",
         "price": "$10000",
-        "img_url": "https://example.com/healing_hearts.jpg"
+        "img_url": "https://imgbb.host/images/Rectangle-4284.png"
       },
       {
         "id": 2,
         "title": "Scholarship Fund",
         "category": "Education",
-        "category_bg_color": "#6495ed",
-        "card_bg_color": "#ffffff",
-        "text_button_bg_color": "#333333",
+        "category_bg_color": "#40e0d0",
+        "card_bg_color": "#f0f8ff",
+        "text_button_bg_color": "#6a5acd",
         "description": "Provide scholarships to deserving students for higher education.",
         "price": "$15000",
-        "img_url": "https://example.com/scholarship_fund.jpg"
+        "img_url": "https://imgbb.host/images/Rectangle-4288.png"
       },
       {
         "id": 3,
         "title": "Warmth for Winter",
         "category": "Clothing",
-        "category_bg_color": "#ff1493",
-        "card_bg_color": "#ffffff",
-        "text_button_bg_color": "#333333",
+        "category_bg_color": "#7fffd4",
+        "card_bg_color": "#f0f8ff",
+        "text_button_bg_color": "#4b0082",
         "description": "Provide winter clothing for those facing cold weather without proper attire.",
         "price": "$4000",
-        "img_url": "https://example.com/warmth_for_winter.jpg"
+        "img_url": "https://imgbb.host/images/Clothing.png"
       },
       {
         "id": 4,
         "title": "Feed the Hungry",
         "category": "Food",
-        "category_bg_color": "#32cd32",
-        "card_bg_color": "#ffffff",
-        "text_button_bg_color": "#333333",
+        "category_bg_color": "#87ceeb",
+        "card_bg_color": "#f0ffff",
+        "text_button_bg_color": "#483d8b",
         "description": "Help us provide nutritious meals to families in need.",
         "price": "$5000",
-        "img_url": "https://example.com/feed_the_hungry.jpg"
+        "img_url": "https://imgbb.host/images/Food.png"
       },
       {
         "id": 5,
         "title": "Mental Wellness Initiative",
         "category": "Health",
         "category_bg_color": "#ff7f50",
-        "card_bg_color": "#ffffff",
-        "text_button_bg_color": "#333333",
+        "card_bg_color": "#ffb347",
+        "text_button_bg_color": "#ffab17",
         "description": "Provide counseling services and support for mental health patients.",
         "price": "$8000",
-        "img_url": "https://example.com/mental_wellness.jpg"
+        "img_url": "https://imgbb.host/images/Rectangle-4284.png"
       },
       {
         "id": 6,
         "title": "STEM Education Initiative",
         "category": "Education",
-        "category_bg_color": "#6495ed",
-        "card_bg_color": "#ffffff",
-        "text_button_bg_color": "#333333",
+        "category_bg_color": "#40e0d0",
+        "card_bg_color": "#f0f8ff",
+        "text_button_bg_color": "#6a5acd",
         "description": "Support STEM education programs for underserved communities.",
         "price": "$10000",
-        "img_url": "https://example.com/stem_education.jpg"
+        "img_url": "https://imgbb.host/images/Rectangle-4288.png"
       },
       {
         "id": 7,
         "title": "Dress to Impress",
         "category": "Clothing",
-        "category_bg_color": "#ff1493",
-        "card_bg_color": "#ffffff",
-        "text_button_bg_color": "#333333",
+        "category_bg_color": "#7fffd4",
+        "card_bg_color": "#f0f8ff",
+        "text_button_bg_color": "#4b0082",
         "description": "Help individuals in need of professional attire for job interviews and work.",
         "price": "$6000",
-        "img_url": "https://example.com/dress_to_impress.jpg"
+        "img_url": "https://imgbb.host/images/Clothing.png"
       },
       {
         "id": 8,
         "title": "Nourish the Needy",
         "category": "Food",
-        "category_bg_color": "#32cd32",
-        "card_bg_color": "#ffffff",
-        "text_button_bg_color": "#333333",
+        "category_bg_color": "#87ceeb",
+        "card_bg_color": "#f0ffff",
+        "text_button_bg_color": "#483d8b",
         "description": "Support our mission to eradicate hunger in our community.",
         "price": "$8000",
-        "img_url": "https://example.com/nourish_the_needy.jpg"
+        "img_url": "https://imgbb.host/images/Food.png"
       },
       {
         "id": 9,
         "title": "Healthy Kids Program",
         "category": "Health",
         "category_bg_color": "#ff7f50",
-        "card_bg_color": "#ffffff",
-        "text_button_bg_color": "#333333",
+        "card_bg_color": "#ffb347",
+        "text_button_bg_color": "#ffab17",
         "description": "Ensure access to healthcare for underprivileged children.",
         "price": "$12000",
-        "img_url": "https://example.com/healthy_kids.jpg"
+        "img_url": "https://imgbb.host/images/Rectangle-4284.png"
       },
       {
         "id": 10,
         "title": "Digital Learning Resources",
         "category": "Education",
-        "category_bg_color": "#6495ed",
-        "card_bg_color": "#ffffff",
-        "text_button_bg_color": "#333333",
+        "category_bg_color": "#40e0d0",
+        "card_bg_color": "#f0f8ff",
+        "text_button_bg_color": "#6a5acd",
         "description": "Ensure access to digital learning resources for students in remote areas.",
         "price": "$8000",
-        "img_url": "https://example.com/digital_learning.jpg"
+        "img_url": "https://imgbb.host/images/Rectangle-4288.png"
       },
       {
         "id": 11,
         "title": "Threads of Kindness",
         "category": "Clothing",
-        "category_bg_color": "#ff1493",
-        "card_bg_color": "#ffffff",
-        "text_button_bg_color": "#333333",
+        "category_bg_color": "#7fffd4",
+        "card_bg_color": "#f0f8ff",
+        "text_button_bg_color": "#4b0082",
         "description": "Your donation keeps our community warm and fashionable.",
         "price": "$3500",
-        "img_url": "https://example.com/threads_of_kindness.jpg"
+        "img_url": "https://imgbb.host/images/Clothing.png"
       },
       {
         "id": 12,
         "title": "Feeding Hope",
         "category": "Food",
-        "category_bg_color": "#32cd32",
-        "card_bg_color": "#ffffff",
-        "text_button_bg_color": "#333333",
+        "category_bg_color": "#87ceeb",
+        "card_bg_color": "#f0ffff",
+        "text_button_bg_color": "#483d8b",
         "description": "Together, we can make sure everyone has enough to eat.",
         "price": "$6000",
-        "img_url": "https://example.com/feeding_hope.jpg"
+        "img_url": "https://imgbb.host/images/Food.png"
       }
 ]

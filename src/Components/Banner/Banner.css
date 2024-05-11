@@ -2,6 +2,8 @@
     background-image: url('../../../Resources/campaigndonate.jpg');
     background-position: center;
     background-size: cover;
-    height: 1000px;
+    height: 500px;
     width: full;
+    opacity: 0.5;
+    overflow: hidden;
 }
