@@ -5,7 +5,7 @@ import Header from "../Header/Header";
 
 const Root = () => {
     return (
-        <div>
+        <div className=" bg-slate-200">
 
             <div>
                 <Header></Header>
