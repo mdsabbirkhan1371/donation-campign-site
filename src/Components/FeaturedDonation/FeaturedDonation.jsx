@@ -1,9 +1,8 @@
 import { Link } from "react-router-dom";
 
-
 const FeaturedDonation = ({donation}) => {
-    console.log(donation)
     const {id,title,category,img_url}=donation;
+
     return (
         <div>
             <Link to={`/donation/${id}`}>
