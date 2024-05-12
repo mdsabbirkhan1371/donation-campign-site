@@ -1,12 +1,13 @@
-import AllDonations from "../AllDonations/AllDonations";
 import Banner from "../Banner/Banner";
+import FeaturedDonations from "../FeaturedDonations/FeaturedDonations";
 
 const Home = () => {
     return (
         <div>
             
             <Banner></Banner>
-            <AllDonations></AllDonations>
+            <FeaturedDonations></FeaturedDonations>
+            
         </div>
     );
 };
