@@ -1,7 +1,7 @@
 
 
 const SingleDonation = ({donate}) => {
-    console.log(donate)
+    
     const {title,category,img_url,price}=donate;
     return (
         <div>
